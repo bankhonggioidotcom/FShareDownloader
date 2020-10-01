@@ -27,7 +27,7 @@ File_Indicator = '/file/'
 Folder_Indicator = '/folder/'
 Folder_Reference_Filename = "Folder_Information.txt"
 
-CONFIG_FILE = "credentials.ini"
+CONFIG_FILE = "/content/FShareDownloader/credentials.ini"
 
 service=''
 
