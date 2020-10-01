@@ -33,7 +33,7 @@ service=''
 
 
 def main():
-    splash_screen()
+    #splash_screen()
     print(colored('Loading configuration...','white'))
     login_credential = configuration_read(CONFIG_FILE)
     print(colored('Login...','white'))
